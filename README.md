@@ -1,0 +1,15 @@
+# CineRadar Lite
+
+静态页面 + Python 标准库 RSS 采集 + GitHub Actions。站点、配置、快照和公开运行记录会对外可见。将本目录（包括隐藏的 .github）上传到独立的公开 GitHub 仓库。旧版数据库和备份保存在旧项目目录。
+
+## 发布与维护
+
+1. 在 GitHub 仓库 Settings → Pages → Source 选择 GitHub Actions。
+2. 在 Actions → CineRadar Lite → Run workflow 手动触发。工作流需要默认分支允许 GitHub Actions 提交数据快照。
+3. 在部署步骤或 Settings → Pages 查看 HTTPS 链接。
+4. 通过 GitHub 编辑 sources.json 添加允许自动读取的 HTTPS RSS。每条包含 name（唯一显示名）、url、kind（电影或剧集）和 enabled（布尔值）。enabled 为 false 时暂停；移除配置可停止读取，旧资讯保留在快照中。将未验证来源先设为暂停，核对来源发布方条款后再启用并检查运行日志。
+5. 通过 GitHub 编辑 companies.json，填写由公司名称字符串组成的数组。编辑后手动触发工作流立即刷新，或等待每日计划任务。
+
+工作流计划为北京时间 08:23 和 18:23，实际可能延迟。公开仓库长期无活动时 GitHub 可能停用计划任务。采集只保存标题、链接、分类、来源和日期。每次更新以现有快照为底稿，同一 URL 保留一条。部分或全部源失败时保留旧数据和最近成功时间。发布后检查 Actions 两个任务、原始来源链接、搜索、空结果、iPhone 布局及二次运行的数据保留。
+
+国家电影局记录是旧版手工录入的公开备案。首批 RSS 面向海外电影和剧集资讯。国内自动采集、公众号、公司自动关联、IP/AI 专题和历史补录仍待开发。

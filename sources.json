@@ -1,0 +1,4 @@
+[
+ {"name":"Deadline · Film","url":"https://deadline.com/v/film/feed/","kind":"电影","enabled":true},
+ {"name":"Variety · TV","url":"https://variety.com/v/tv/feed/","kind":"剧集","enabled":true}
+]
