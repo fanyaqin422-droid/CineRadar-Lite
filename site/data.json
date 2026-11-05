@@ -218,8 +218,20 @@
       "summary": "Blockbuster “Spider-Man: Brand New Day” delivered a major boost to Sony’s September quarterly earnings on the top and bo"
     }
   ],
-  "lastSuccess": "2026-11-05T07:35:00+00:00",
+  "lastSuccess": "2026-11-05T07:35:26+00:00",
   "runs": [
+    {
+      "name": "Deadline · Film",
+      "status": "成功",
+      "detail": "读取 12 条，新增 0 条",
+      "time": "2026-11-05T07:35:26+00:00"
+    },
+    {
+      "name": "Variety · TV",
+      "status": "成功",
+      "detail": "读取 10 条，新增 0 条",
+      "time": "2026-11-05T07:35:26+00:00"
+    },
     {
       "name": "Deadline · Film",
       "status": "成功",
