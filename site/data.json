@@ -184,10 +184,54 @@
       "kind": "剧集",
       "source": "Variety · TV",
       "summary": "Behind every great joke is a story. At least that was the case for comedian Jo Koy and his viral joke about attending a "
+    },
+    {
+      "title": "‘Spider-Man: Brand New Day’ Propels Sony Pictures To Huge Q2 Profit Boost",
+      "url": "https://deadline.com/2026/11/sony-q2-earnings-spider-man-brand-new-day-1237214122/",
+      "published": "Thu, 05 Nov 2026 07:05:49 +0000",
+      "kind": "电影",
+      "source": "Deadline · Film",
+      "summary": "The friendly neighborhood Spider-Man has swung Sony Pictures Entertainment (SPE) to a massive hike in second quarter pro"
+    },
+    {
+      "title": "‘Madden’ Premiere Photos: Nicolas Cage, Christian Bale, Sienna Miller & John Madden’s Family",
+      "url": "https://deadline.com/gallery/madden-movie-premiere-photos-nicolas-cage/",
+      "published": "Thu, 05 Nov 2026 06:09:17 +0000",
+      "kind": "电影",
+      "source": "Deadline · Film",
+      "summary": "Stars Nicolas Cage and Christian Bale walked the red carpet at the world premiere of Prime Video’s Madden, in which Cage"
+    },
+    {
+      "title": "Former KABC and KCBS News Anchor Harold Greene Dies at 82",
+      "url": "https://variety.com/2026/tv/news/harold-greene-dies-dead-82-kabc-kcbs-1236940011/",
+      "published": "Thu, 05 Nov 2026 07:00:52 +0000",
+      "kind": "剧集",
+      "source": "Variety · TV",
+      "summary": "Former Los Angeles TV news anchor Harold Greene has died, according to a social media post by his daughter, Courtney Gre"
+    },
+    {
+      "title": "‘Spider-Man: Brand New Day’ Spins Up Massive Numbers for Sony’s Quarterly Earnings",
+      "url": "https://variety.com/2026/film/news/sony-pictures-earnings-spider-man-brand-new-day-1236939997/",
+      "published": "Thu, 05 Nov 2026 06:51:13 +0000",
+      "kind": "剧集",
+      "source": "Variety · TV",
+      "summary": "Blockbuster “Spider-Man: Brand New Day” delivered a major boost to Sony’s September quarterly earnings on the top and bo"
     }
   ],
-  "lastSuccess": "2026-11-05T06:05:21+00:00",
+  "lastSuccess": "2026-11-05T07:35:00+00:00",
   "runs": [
+    {
+      "name": "Deadline · Film",
+      "status": "成功",
+      "detail": "读取 12 条，新增 2 条",
+      "time": "2026-11-05T07:35:00+00:00"
+    },
+    {
+      "name": "Variety · TV",
+      "status": "成功",
+      "detail": "读取 10 条，新增 2 条",
+      "time": "2026-11-05T07:35:00+00:00"
+    },
     {
       "name": "Deadline · Film",
       "status": "成功",
