@@ -1,4 +1,71 @@
 [
- {"name":"Deadline · Film","url":"https://deadline.com/v/film/feed/","kind":"电影","enabled":true},
- {"name":"Variety · TV","url":"https://variety.com/v/tv/feed/","kind":"剧集","enabled":true}
+  {
+    "name": "中新网 · 文娱",
+    "url": "https://www.chinanews.com.cn/rss/culture.xml",
+    "kind": "其他资讯",
+    "enabled": true,
+    "region": "华语",
+    "language": "zh",
+    "filterFilm": true,
+    "policy": "发布方 RSS 订阅页明确提供，仅存标题和短摘录"
+  },
+  {
+    "name": "新浪 · 电影 RSS",
+    "url": "https://rss.sina.com.cn/ent/film/focus7.xml",
+    "kind": "电影",
+    "enabled": true,
+    "region": "待核实",
+    "language": "zh",
+    "policy": "新浪官方 RSS 目录提供；标题可能包含海外项目，地域需核实"
+  },
+  {
+    "name": "中新网 · 财经影视线索",
+    "url": "https://www.chinanews.com.cn/rss/finance.xml",
+    "kind": "其他资讯",
+    "enabled": true,
+    "region": "华语",
+    "language": "zh",
+    "filterFilm": true,
+    "policy": "发布方 RSS 订阅页明确提供，仅保留影视关键词匹配条目"
+  },
+  {
+    "name": "Deadline · Film",
+    "url": "https://deadline.com/v/film/feed/",
+    "kind": "电影",
+    "enabled": true,
+    "region": "海外",
+    "language": "en"
+  },
+  {
+    "name": "Variety · TV",
+    "url": "https://variety.com/v/tv/feed/",
+    "kind": "剧集",
+    "enabled": true,
+    "region": "海外",
+    "language": "en"
+  },
+  {
+    "name": "国家电影局",
+    "url": "https://www.chinafilm.gov.cn/xxgk/gsxx/dybalx/",
+    "kind": "电影",
+    "enabled": false,
+    "mode": "manual",
+    "reason": "尚未确认自动采集授权与可用接口，保留人工导入"
+  },
+  {
+    "name": "广电总局",
+    "url": "https://www.nrta.gov.cn/col/col38/index.html",
+    "kind": "电影",
+    "enabled": false,
+    "mode": "manual",
+    "reason": "尚未确认自动采集授权与可用接口，保留人工导入"
+  },
+  {
+    "name": "1905电影网／中国电影报道",
+    "url": "https://www.1905.com/",
+    "kind": "电影",
+    "enabled": false,
+    "mode": "manual",
+    "reason": "尚未确认自动采集授权与可用接口，保留人工导入"
+  }
 ]

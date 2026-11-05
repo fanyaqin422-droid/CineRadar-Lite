@@ -13,9 +13,9 @@ article{margin:0;overflow-wrap:anywhere}nav a{padding:10px}input,select{min-heig
 </style>
 <header><small>影视产业信息雷达</small><h1>CineRadar Lite</h1><p id="status" role="status">正在读取公开情报…</p>
 <nav><a href="#radar">情报列表</a><a href="#sources">我的情报源</a><a href="#companies">重点公司</a></nav></header>
-<section id="radar"><h2>情报列表</h2><form>
+<section id="radar"><h2>华语影视动态</h2><p>华语优先，海外补充。首页按实际库存接近 80%／20% 展示，全部资讯可切换查看。</p><form>
 <input id="query" aria-label="搜索情报" placeholder="搜索标题、公司或来源" type="search">
-<select id="kind" aria-label="分类"><option>全部</option><option>电影</option><option>剧集</option><option>影视公司</option><option>AI影视</option><option>潜力故事</option><option>其他资讯</option></select><select id="company" aria-label="公司"><option value="">全部公司</option></select>
+<select id="region" aria-label="市场"><option value="精选">首页精选</option><option value="华语">华语全部</option><option value="海外">海外全部</option><option value="全部">全部资讯</option></select><select id="topic" aria-label="专题"><option>全部专题</option><option>今日华语影视动态</option><option>最新电影备案与开发</option><option>最新开机及杀青项目</option><option>重点影视公司动态</option><option>剧集项目</option><option>AI影视资讯</option><option>潜力IP及真实故事</option><option>海外精选（中文）</option></select><select id="kind" aria-label="分类"><option>全部</option><option>电影</option><option>剧集</option><option>影视公司</option><option>AI影视</option><option>潜力故事</option><option>其他资讯</option></select><select id="company" aria-label="公司"><option value="">全部公司</option></select>
 </form><p id="count" aria-live="polite"></p><div id="items"></div></section>
 <section id="sources"><h2>我的情报源</h2><a href="https://github.com/fanyaqin422-droid/CineRadar-Lite/edit/main/sources.json">编辑情报源（GitHub 登录）</a><p>在 GitHub 仓库编辑 sources.json 以新增、修改或暂停来源。仅对允许自动读取的公开 RSS 启用采集。</p><ul id="feeds"></ul>
 <details><summary>最近更新日志</summary><ul id="runs"></ul></details></section>

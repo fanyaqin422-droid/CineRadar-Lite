@@ -21,6 +21,7 @@ def https(url):
     parts = urlsplit(url)
     return parts.scheme == 'https' and parts.hostname and not parts.username and not parts.password
 
+FILM = r'电影|電影|影视|影視|电视剧|電視劇|剧集|短剧|漫剧|开机|杀青|票房|编剧|導演|导演|光线传媒|博纳|华策|壹同|坏猴子|亭东|儒意'
 def feed(source):
     if not https(source['url']):
         raise ValueError('需要 HTTPS RSS 地址')
@@ -34,11 +35,17 @@ def feed(source):
     for item in root.findall('./channel/item'):
         title = (item.findtext('title') or '').strip()
         url = (item.findtext('link') or '').strip()
+        if source.get('filterFilm') and not re.search(FILM,title):
+            continue
         if title and https(url):
             result.append(dict(title=title,url=url,published=item.findtext('pubDate') or '',
-                               kind=source['kind'],source=source['name'],
+                               kind=('AI影视' if re.search(r'AI|人工智能',title) else '剧集' if re.search(r'剧集|电视剧|短剧|漫剧',title) else '影视公司' if re.search(r'华策|光线|博纳|儒意|壹同|坏猴子|亭东',title) else '电影' if re.search(r'电影|電影|票房',title) else source['kind']),
+                               source=source['name'],region=source.get('region','海外'),
+                               language=source.get('language','en'),
+                               translationStatus='待翻译' if source.get('language','en')=='en' else '中文原文',
+                               originalTitle=title,
                                summary=re.sub(r'<[^>]+>', '', unescape(item.findtext('description') or ''))[:120]))
-    if not result:
+    if not root.findall('./channel/item'):
         raise ValueError('未解析到包含 HTTPS 链接的 RSS 条目')
     return result
 
