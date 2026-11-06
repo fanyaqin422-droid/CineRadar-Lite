@@ -748,10 +748,142 @@
       "translationStatus": "待翻译",
       "originalTitle": "Saudi-Backed LIV Golf, After Five Years of Trying to Challenge PGA Tour, Is Shutting Down",
       "summary": "LIV Golf, the pro-golfing startup venture whose biggest investor had been the sovereign wealth fund of Saudi Arabia, is "
+    },
+    {
+      "title": "2026中国电影节在澳大利亚开幕",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727404.shtml",
+      "published": "Fri, 6 Nov 2026 18:53:36 +0800",
+      "kind": "电影",
+      "source": "中新网 · 文娱",
+      "region": "华语",
+      "language": "zh",
+      "translationStatus": "中文原文",
+      "originalTitle": "2026中国电影节在澳大利亚开幕",
+      "summary": "\n　　中新网悉尼11月6日电 (薄雯雯 林冰)2026中国电影节5日在澳大利亚拉开帷幕，6部中国影片将在澳大利亚6座城市同步展映。"
+    },
+    {
+      "title": "胡歌讲述“三件小事”：《生命树》杀青那句“查下去”，在戏外继续回响",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-06/10727309.shtml",
+      "published": "Fri, 6 Nov 2026 15:46:28 +0800",
+      "kind": "其他资讯",
+      "source": "中新网 · 文娱",
+      "region": "华语",
+      "language": "zh",
+      "translationStatus": "中文原文",
+      "originalTitle": "胡歌讲述“三件小事”：《生命树》杀青那句“查下去”，在戏外继续回响",
+      "summary": "\n　　中新网北京11月6日电(记者 郎朗)没有谈收视数据，也没有谈奖项得失，在2026中国广播电视精品创作大会主论坛上，演员胡歌带着《生命树》登台，讲了三件小事。"
+    },
+    {
+      "title": "New York Times In Advanced Talks To Buy Letterboxd For Reported $330 Million",
+      "url": "https://deadline.com/2026/11/new-york-times-company-exclusive-talks-letterboxd-1237215118/",
+      "published": "Fri, 06 Nov 2026 01:50:06 +0000",
+      "kind": "电影",
+      "source": "Deadline · Film",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "New York Times In Advanced Talks To Buy Letterboxd For Reported $330 Million",
+      "summary": "The New York Times Company is in advanced talks to acquire the beloved cinephile social media platform Letterboxd, Deadl"
+    },
+    {
+      "title": "Producer Accused of ‘Laughing’ During Russell Brand Assault ‘Steps Back’ From Head of Comedy Role",
+      "url": "https://variety.com/2026/tv/global/comedy-producer-russell-brand-assault-steps-back-1236941125/",
+      "published": "Fri, 06 Nov 2026 10:28:58 +0000",
+      "kind": "剧集",
+      "source": "Variety · TV",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "Producer Accused of ‘Laughing’ During Russell Brand Assault ‘Steps Back’ From Head of Comedy Role",
+      "summary": "A producer who is alleged to have laughed while Russell Brand put his head on a woman’s groin has stepped back from his "
+    },
+    {
+      "title": "Taiwan Should Bet on Horror to Crack Indonesia, Southeast Asia’s Biggest Film Market, Study Finds",
+      "url": "https://variety.com/2026/film/markets-festivals/taiwan-horror-indonesia-box-office-study-1236941116/",
+      "published": "Fri, 06 Nov 2026 10:22:43 +0000",
+      "kind": "剧集",
+      "source": "Variety · TV",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "Taiwan Should Bet on Horror to Crack Indonesia, Southeast Asia’s Biggest Film Market, Study Finds",
+      "summary": "Horror stands out as a natural meeting ground for Taiwanese and Indonesian producers, according to a K7 Media study of t"
+    },
+    {
+      "title": "‘Kamen Rider’ Studio Toei Frames Generative AI Rules, Sets First Video Games for 2027",
+      "url": "https://variety.com/2026/tv/markets-festivals/kamen-rider-studio-toei-generative-ai-rules-2027-game-slate-1236941104/",
+      "published": "Fri, 06 Nov 2026 08:21:04 +0000",
+      "kind": "AI影视",
+      "source": "Variety · TV",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "‘Kamen Rider’ Studio Toei Frames Generative AI Rules, Sets First Video Games for 2027",
+      "summary": "Toei, the Japanese studio giant behind “Kamen Rider” and the Super Sentai series that became “Power Rangers,” has drawn "
+    },
+    {
+      "title": "Jalen Brunson Makes ‘Law & Order: SVU’ Acting Debut as a Promoted Cop: ‘I Focused on My Goals… Things Worked Out’",
+      "url": "https://variety.com/2026/tv/news/jalen-brunson-cop-law-and-order-svu-1236939700/",
+      "published": "Fri, 06 Nov 2026 03:00:00 +0000",
+      "kind": "剧集",
+      "source": "Variety · TV",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "Jalen Brunson Makes ‘Law & Order: SVU’ Acting Debut as a Promoted Cop: ‘I Focused on My Goals… Things Worked Out’",
+      "summary": "Jalen Brunson, who led the New York Knicks to their first NBA championship in 53 years in June, guest starred as a cop i"
     }
   ],
-  "lastSuccess": "2026-11-06T01:29:52+00:00",
+  "lastSuccess": "2026-11-06T11:16:35+00:00",
   "runs": [
+    {
+      "name": "中新网 · 文娱",
+      "status": "成功",
+      "detail": "读取 7 条，新增 2 条",
+      "time": "2026-11-06T11:16:35+00:00"
+    },
+    {
+      "name": "新浪 · 电影 RSS",
+      "status": "失败",
+      "detail": "未解析到包含 HTTPS 链接的 RSS 条目",
+      "time": "2026-11-06T11:16:35+00:00"
+    },
+    {
+      "name": "中新网 · 财经影视线索",
+      "status": "成功",
+      "detail": "读取 0 条，新增 0 条",
+      "time": "2026-11-06T11:16:35+00:00"
+    },
+    {
+      "name": "Deadline · Film",
+      "status": "成功",
+      "detail": "读取 12 条，新增 1 条",
+      "time": "2026-11-06T11:16:35+00:00"
+    },
+    {
+      "name": "Variety · TV",
+      "status": "成功",
+      "detail": "读取 10 条，新增 4 条",
+      "time": "2026-11-06T11:16:35+00:00"
+    },
+    {
+      "name": "国家电影局",
+      "status": "手动导入",
+      "detail": "来源未配置自动采集",
+      "time": "2026-11-06T11:16:35+00:00"
+    },
+    {
+      "name": "广电总局",
+      "status": "手动导入",
+      "detail": "来源未配置自动采集",
+      "time": "2026-11-06T11:16:35+00:00"
+    },
+    {
+      "name": "1905电影网／中国电影报道",
+      "status": "手动导入",
+      "detail": "来源未配置自动采集",
+      "time": "2026-11-06T11:16:35+00:00"
+    },
     {
       "name": "中新网 · 文娱",
       "status": "成功",
