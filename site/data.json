@@ -3184,10 +3184,142 @@
       "translationStatus": "待翻译",
       "originalTitle": "Peacock Sets ‘Love Trapped: The Case of Laura Owens’ Documentary About ‘Bachelor’ Star Clayton Echard Scam",
       "summary": "Peacock has announced a new, four-part documentary “Love Trapped: The Case of Laura Owens,” based on the hit 2026 podcas"
+    },
+    {
+      "title": "‘Dune: Part 3’ Stars Set For Very Childish BBC Prank Tonight",
+      "url": "https://deadline.com/2026/11/chalamet-dune-part-three-prank-bbc-children-in-need-1237222621/",
+      "published": "Fri, 13 Nov 2026 10:44:26 +0000",
+      "kind": "电影",
+      "source": "Deadline · Film",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "‘Dune: Part 3’ Stars Set For Very Childish BBC Prank Tonight",
+      "summary": "Stars of Dune: Part Three are bringing a touch of early festive cheer to the BBC tonight with a rather childish prank fo"
+    },
+    {
+      "title": "Alanis Morissette Recalls ‘Dogma’ Co-Star Ben Affleck Asking Her Why She Didn’t “Lead With My Sexuality”",
+      "url": "https://deadline.com/2026/11/alanis-morissette-dogma-ben-affleck-lead-with-my-sexuality-1237222468/",
+      "published": "Fri, 13 Nov 2026 02:39:33 +0000",
+      "kind": "电影",
+      "source": "Deadline · Film",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "Alanis Morissette Recalls ‘Dogma’ Co-Star Ben Affleck Asking Her Why She Didn’t “Lead With My Sexuality”",
+      "summary": "Now that Dogma has gotten its long-awaited re-release, Alanis Morissette is revisiting some behind-the-scenes tension. D"
+    },
+    {
+      "title": "How the Baltics Are Juggling a Boom in Foreign Productions Like ‘Woman Unknown’ With a Lack of Public Funds",
+      "url": "https://variety.com/2026/film/global/woman-unknown-star-city-baltics-foreign-shoots-boom-1236946177/",
+      "published": "Fri, 13 Nov 2026 09:15:41 +0000",
+      "kind": "剧集",
+      "source": "Variety · TV",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "How the Baltics Are Juggling a Boom in Foreign Productions Like ‘Woman Unknown’ With a Lack of Public Funds",
+      "summary": "Mid-October, Estonia’s long-awaited next-gen film studio complex Ida Hub, in the country’s eastern region, finally opene"
+    },
+    {
+      "title": "Russell Brand Faces Sexual Misconduct Claims From Six More Women After Rape Sentencing",
+      "url": "https://variety.com/2026/tv/news/russell-brand-misconduct-claims-six-more-women-1236946823/",
+      "published": "Fri, 13 Nov 2026 08:02:27 +0000",
+      "kind": "剧集",
+      "source": "Variety · TV",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "Russell Brand Faces Sexual Misconduct Claims From Six More Women After Rape Sentencing",
+      "summary": "Six more women have accused Russell Brand of sexual misconduct in a new investigation by The Times and The Sunday Times,"
+    },
+    {
+      "title": "Shilpa Shetty to Host Relationship Reality Show ‘Pyaar Ka Pressure Cooker’ for India’s JioHotstar and Colors",
+      "url": "https://variety.com/2026/tv/news/shilpa-shetty-host-reality-show-pyaar-ka-pressure-cooker-1236946816/",
+      "published": "Fri, 13 Nov 2026 07:01:16 +0000",
+      "kind": "剧集",
+      "source": "Variety · TV",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "Shilpa Shetty to Host Relationship Reality Show ‘Pyaar Ka Pressure Cooker’ for India’s JioHotstar and Colors",
+      "summary": "Bollywood star Shilpa Shetty will host “Pyaar Ka Pressure Cooker,” a reality series that pushes couples in stalled or un"
+    },
+    {
+      "title": "‘SVU’ Star Mariska Hargitay Breaks Down Benson and Stabler’s Complicated Reunion and Her Final Choice: ‘There Are So Many Feelings’",
+      "url": "https://variety.com/2026/tv/news/svu-mariska-hargitay-benson-stabler-reunion-1236945584/",
+      "published": "Fri, 13 Nov 2026 03:05:00 +0000",
+      "kind": "剧集",
+      "source": "Variety · TV",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "‘SVU’ Star Mariska Hargitay Breaks Down Benson and Stabler’s Complicated Reunion and Her Final Choice: ‘There Are So Many Feelings’",
+      "summary": "SPOILER ALERT: This article contains major spoilers from the 600th episode of “Law & Order: Special Victims Unit.” To sa"
+    },
+    {
+      "title": "‘The Body’ Creator on the Dance Team’s Sexuality, What Happened to Grace and Whether God Is Real",
+      "url": "https://variety.com/2026/tv/news/the-body-finale-sexuality-grace-god-1236946216/",
+      "published": "Fri, 13 Nov 2026 03:00:00 +0000",
+      "kind": "剧集",
+      "source": "Variety · TV",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "‘The Body’ Creator on the Dance Team’s Sexuality, What Happened to Grace and Whether God Is Real",
+      "summary": "SPOILER ALERT: This story contains spoilers for “The Body,” now streaming on Netflix. If you’re looking for clear answer"
     }
   ],
-  "lastSuccess": "2026-11-13T01:28:44+00:00",
+  "lastSuccess": "2026-11-13T11:14:42+00:00",
   "runs": [
+    {
+      "name": "中新网 · 文娱",
+      "status": "成功",
+      "detail": "读取 0 条，新增 0 条",
+      "time": "2026-11-13T11:14:42+00:00"
+    },
+    {
+      "name": "新浪 · 电影 RSS",
+      "status": "失败",
+      "detail": "未解析到包含 HTTPS 链接的 RSS 条目",
+      "time": "2026-11-13T11:14:42+00:00"
+    },
+    {
+      "name": "中新网 · 财经影视线索",
+      "status": "成功",
+      "detail": "读取 0 条，新增 0 条",
+      "time": "2026-11-13T11:14:42+00:00"
+    },
+    {
+      "name": "Deadline · Film",
+      "status": "成功",
+      "detail": "读取 12 条，新增 2 条",
+      "time": "2026-11-13T11:14:42+00:00"
+    },
+    {
+      "name": "Variety · TV",
+      "status": "成功",
+      "detail": "读取 10 条，新增 5 条",
+      "time": "2026-11-13T11:14:42+00:00"
+    },
+    {
+      "name": "国家电影局",
+      "status": "手动导入",
+      "detail": "来源未配置自动采集",
+      "time": "2026-11-13T11:14:42+00:00"
+    },
+    {
+      "name": "广电总局",
+      "status": "手动导入",
+      "detail": "来源未配置自动采集",
+      "time": "2026-11-13T11:14:42+00:00"
+    },
+    {
+      "name": "1905电影网／中国电影报道",
+      "status": "手动导入",
+      "detail": "来源未配置自动采集",
+      "time": "2026-11-13T11:14:42+00:00"
+    },
     {
       "name": "中新网 · 文娱",
       "status": "成功",
@@ -3739,54 +3871,6 @@
       "status": "成功",
       "detail": "读取 12 条，新增 3 条",
       "time": "2026-11-07T10:57:53+00:00"
-    },
-    {
-      "name": "Variety · TV",
-      "status": "成功",
-      "detail": "读取 10 条，新增 5 条",
-      "time": "2026-11-07T10:57:53+00:00"
-    },
-    {
-      "name": "国家电影局",
-      "status": "手动导入",
-      "detail": "来源未配置自动采集",
-      "time": "2026-11-07T10:57:53+00:00"
-    },
-    {
-      "name": "广电总局",
-      "status": "手动导入",
-      "detail": "来源未配置自动采集",
-      "time": "2026-11-07T10:57:53+00:00"
-    },
-    {
-      "name": "1905电影网／中国电影报道",
-      "status": "手动导入",
-      "detail": "来源未配置自动采集",
-      "time": "2026-11-07T10:57:53+00:00"
-    },
-    {
-      "name": "中新网 · 文娱",
-      "status": "成功",
-      "detail": "读取 6 条，新增 2 条",
-      "time": "2026-11-07T01:22:57+00:00"
-    },
-    {
-      "name": "新浪 · 电影 RSS",
-      "status": "失败",
-      "detail": "未解析到包含 HTTPS 链接的 RSS 条目",
-      "time": "2026-11-07T01:22:57+00:00"
-    },
-    {
-      "name": "中新网 · 财经影视线索",
-      "status": "成功",
-      "detail": "读取 0 条，新增 0 条",
-      "time": "2026-11-07T01:22:57+00:00"
-    },
-    {
-      "name": "Deadline · Film",
-      "status": "成功",
-      "detail": "读取 12 条，新增 12 条",
-      "time": "2026-11-07T01:22:57+00:00"
     }
   ]
 }
