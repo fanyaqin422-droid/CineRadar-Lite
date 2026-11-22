@@ -6174,7 +6174,7 @@
       "summary": "Syrian actor Taim Hassan (Al Haybar) has signed to star in Neon-backed biopic Caesar, about military officer Farid Al-Ma"
     },
     {
-      "title": "Kieran Culkin Says a ‘Succession’ Spinoff ‘Would Be a Terrible Idea’: ‘What Are You Hoping For? “Cousin Greg: The Sitcom?”‘",
+      "title": "Kieran Culkin Says a ‘Succession’ Spinoff ‘Would Be a Terrible Idea’: ‘What Are You Hoping For? “Cousin Greg: The Sitcom?”’",
       "url": "https://variety.com/2026/tv/news/kieran-culkin-succession-spinoff-terrible-idea-1236955146/",
       "published": "Sun, 22 Nov 2026 00:52:28 +0000",
       "kind": "剧集",
@@ -6182,7 +6182,7 @@
       "region": "海外",
       "language": "en",
       "translationStatus": "待翻译",
-      "originalTitle": "Kieran Culkin Says a ‘Succession’ Spinoff ‘Would Be a Terrible Idea’: ‘What Are You Hoping For? “Cousin Greg: The Sitcom?”‘",
+      "originalTitle": "Kieran Culkin Says a ‘Succession’ Spinoff ‘Would Be a Terrible Idea’: ‘What Are You Hoping For? “Cousin Greg: The Sitcom?”’",
       "summary": "Sorry, “Succession” fans — Kieran Culkin is shutting down any possibility of a spinoff once and for all. The actor, curr"
     },
     {
@@ -6220,10 +6220,106 @@
       "translationStatus": "待翻译",
       "originalTitle": "Princess Kate Cancer Documentary ‘Heal’ Sets BBC, NBC and International Premiere Dates",
       "summary": "“Heal,” a documentary from Princess Kate on her cancer diagnosis and living life in the face of serious illness, will de"
+    },
+    {
+      "title": "“全国艺术电影放映联盟十周年荣誉之夜”在山东举办",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-22/10735955.shtml",
+      "published": "Sun, 22 Nov 2026 10:22:17 +0800",
+      "kind": "电影",
+      "source": "中新网 · 文娱",
+      "region": "华语",
+      "language": "zh",
+      "translationStatus": "中文原文",
+      "originalTitle": "“全国艺术电影放映联盟十周年荣誉之夜”在山东举办",
+      "summary": "\n　　中新网11月22日电 记者从中国电影资料馆获悉，近日，“十年成林·全国艺术电影放映联盟十周年荣誉之夜”在山东济南章丘明水古城举办。"
+    },
+    {
+      "title": "宝钗被当街掌掴、贾母跪拜黛玉？这部AI魔改短剧把网友惹毛了！",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-22/10735958.shtml",
+      "published": "Sun, 22 Nov 2026 10:20:49 +0800",
+      "kind": "AI影视",
+      "source": "中新网 · 文娱",
+      "region": "华语",
+      "language": "zh",
+      "translationStatus": "中文原文",
+      "originalTitle": "宝钗被当街掌掴、贾母跪拜黛玉？这部AI魔改短剧把网友惹毛了！",
+      "summary": "\n　　中新网北京11月22日电(记者 刘越)林黛玉重生复仇，薛宝钗被当街掌掴嘴角出血，贾母跪拜林黛玉……这不是恶搞段子，而是一部AI短剧里的“剧情”。"
+    },
+    {
+      "title": "‘American Psycho’ Gets Axed: Luca Guadagnino Confirms His Adaptation Is “Not Happening”",
+      "url": "https://deadline.com/2026/11/luca-guadagnino-american-psycho-not-happening-1237231106/",
+      "published": "Sun, 22 Nov 2026 04:21:37 +0000",
+      "kind": "电影",
+      "source": "Deadline · Film",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "‘American Psycho’ Gets Axed: Luca Guadagnino Confirms His Adaptation Is “Not Happening”",
+      "summary": "Luca Guadagnino has to return some videotapes. The Oscar-nominated director is passing on Scott Z. Burns’ American Psych"
+    },
+    {
+      "title": "SXSW Forges Partnership With Egypt’s UTH Festival Dedicated to Youth Culture",
+      "url": "https://variety.com/2026/film/global/sxsw-partnership-egypt-uth-festival-youth-culture-1236955220/",
+      "published": "Sun, 22 Nov 2026 09:41:26 +0000",
+      "kind": "剧集",
+      "source": "Variety · TV",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "SXSW Forges Partnership With Egypt’s UTH Festival Dedicated to Youth Culture",
+      "summary": "Austin’s South by Southwest Film and TV Festival has forged a partnership with Egypt’s UTH Festival dedicated to youth c"
     }
   ],
-  "lastSuccess": "2026-11-22T01:30:01+00:00",
+  "lastSuccess": "2026-11-22T11:01:37+00:00",
   "runs": [
+    {
+      "name": "中新网 · 文娱",
+      "status": "成功",
+      "detail": "读取 3 条，新增 2 条",
+      "time": "2026-11-22T11:01:37+00:00"
+    },
+    {
+      "name": "新浪 · 电影 RSS",
+      "status": "失败",
+      "detail": "未解析到包含 HTTPS 链接的 RSS 条目",
+      "time": "2026-11-22T11:01:37+00:00"
+    },
+    {
+      "name": "中新网 · 财经影视线索",
+      "status": "成功",
+      "detail": "读取 0 条，新增 0 条",
+      "time": "2026-11-22T11:01:37+00:00"
+    },
+    {
+      "name": "Deadline · Film",
+      "status": "成功",
+      "detail": "读取 12 条，新增 1 条",
+      "time": "2026-11-22T11:01:37+00:00"
+    },
+    {
+      "name": "Variety · TV",
+      "status": "成功",
+      "detail": "读取 10 条，新增 1 条",
+      "time": "2026-11-22T11:01:37+00:00"
+    },
+    {
+      "name": "国家电影局",
+      "status": "手动导入",
+      "detail": "来源未配置自动采集",
+      "time": "2026-11-22T11:01:37+00:00"
+    },
+    {
+      "name": "广电总局",
+      "status": "手动导入",
+      "detail": "来源未配置自动采集",
+      "time": "2026-11-22T11:01:37+00:00"
+    },
+    {
+      "name": "1905电影网／中国电影报道",
+      "status": "手动导入",
+      "detail": "来源未配置自动采集",
+      "time": "2026-11-22T11:01:37+00:00"
+    },
     {
       "name": "中新网 · 文娱",
       "status": "成功",
@@ -6775,54 +6871,6 @@
       "status": "成功",
       "detail": "读取 12 条，新增 5 条",
       "time": "2026-11-16T11:38:53+00:00"
-    },
-    {
-      "name": "Variety · TV",
-      "status": "成功",
-      "detail": "读取 10 条，新增 3 条",
-      "time": "2026-11-16T11:38:53+00:00"
-    },
-    {
-      "name": "国家电影局",
-      "status": "手动导入",
-      "detail": "来源未配置自动采集",
-      "time": "2026-11-16T11:38:53+00:00"
-    },
-    {
-      "name": "广电总局",
-      "status": "手动导入",
-      "detail": "来源未配置自动采集",
-      "time": "2026-11-16T11:38:53+00:00"
-    },
-    {
-      "name": "1905电影网／中国电影报道",
-      "status": "手动导入",
-      "detail": "来源未配置自动采集",
-      "time": "2026-11-16T11:38:53+00:00"
-    },
-    {
-      "name": "中新网 · 文娱",
-      "status": "成功",
-      "detail": "读取 2 条，新增 0 条",
-      "time": "2026-11-16T01:45:18+00:00"
-    },
-    {
-      "name": "新浪 · 电影 RSS",
-      "status": "失败",
-      "detail": "未解析到包含 HTTPS 链接的 RSS 条目",
-      "time": "2026-11-16T01:45:18+00:00"
-    },
-    {
-      "name": "中新网 · 财经影视线索",
-      "status": "成功",
-      "detail": "读取 0 条，新增 0 条",
-      "time": "2026-11-16T01:45:18+00:00"
-    },
-    {
-      "name": "Deadline · Film",
-      "status": "成功",
-      "detail": "读取 12 条，新增 4 条",
-      "time": "2026-11-16T01:45:18+00:00"
     }
   ]
 }
