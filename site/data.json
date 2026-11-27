@@ -8032,10 +8032,106 @@
       "translationStatus": "待翻译",
       "originalTitle": "Richard Hammond Says He Was Approached About ‘Top Gear’ Return, but Decided: ‘No, I’m Too Old’",
       "summary": "Former “Top Gear” co-host Richard Hammond has revealed that he was approached about returning to the BBC’s revived versi"
+    },
+    {
+      "title": "“光影相约：洛迦诺80年——瑞中电影对话”开幕活动在京举行",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-27/10738553.shtml",
+      "published": "Fri, 27 Nov 2026 09:55:34 +0800",
+      "kind": "电影",
+      "source": "中新网 · 文娱",
+      "region": "华语",
+      "language": "zh",
+      "translationStatus": "中文原文",
+      "originalTitle": "“光影相约：洛迦诺80年——瑞中电影对话”开幕活动在京举行",
+      "summary": "\n　　中新网北京11月27日电(张焕迪 余昭滢)“光影相约：洛迦诺80年——瑞中电影对话”开幕影片放映活动26日晚在中国电影资料馆艺术影院举行，放映影片《希望之旅》。活动由瑞士驻华大使馆、洛迦诺电影节和中国电影资料馆共同主办。"
+    },
+    {
+      "title": "Mike Leigh Reminds The World Why He Doesn’t Work With Hollywood Stars",
+      "url": "https://deadline.com/2026/11/mike-leigh-retirement-tender-loving-care-hollywood-1237234216/",
+      "published": "Fri, 27 Nov 2026 09:10:01 +0000",
+      "kind": "电影",
+      "source": "Deadline · Film",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "Mike Leigh Reminds The World Why He Doesn’t Work With Hollywood Stars",
+      "summary": "Mike Leigh has a few regrets, but declining to work with Hollywood actors isn’t one of them. In an interview with The Gu"
+    },
+    {
+      "title": "Barun Sobti, Abhishek Banerjee Star as ‘Paatal Lok’ Creator Sudip Sharma Swaps Violence for Black Comedy in Netflix’s IFFI Selection ‘Pushpak Vimaan’",
+      "url": "https://variety.com/2026/tv/festivals/barun-sobti-abhishek-banerjee-netflix-comedy-pushpak-vimaan-1236959303/",
+      "published": "Fri, 27 Nov 2026 10:52:10 +0000",
+      "kind": "剧集",
+      "source": "Variety · TV",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "Barun Sobti, Abhishek Banerjee Star as ‘Paatal Lok’ Creator Sudip Sharma Swaps Violence for Black Comedy in Netflix’s IFFI Selection ‘Pushpak Vimaan’",
+      "summary": "After the crime dramas “Paatal Lok” on Prime Video and “Kohrra” on Netflix, creator Sudip Sharma is changing lanes with "
+    },
+    {
+      "title": "Justin Timberlake Was ‘Really Reluctant’ to Make Tell-All Documentary: ‘I’ve Gone Through a Lot in the Last Five Years’",
+      "url": "https://variety.com/2026/music/news/justin-timberlake-reluctant-doc-big-revelations-1236959282/",
+      "published": "Fri, 27 Nov 2026 10:27:50 +0000",
+      "kind": "剧集",
+      "source": "Variety · TV",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "Justin Timberlake Was ‘Really Reluctant’ to Make Tell-All Documentary: ‘I’ve Gone Through a Lot in the Last Five Years’",
+      "summary": "Justin Timberlake is opening up about his decision to participate in an upcoming tell-all documentary, saying he was ini"
     }
   ],
-  "lastSuccess": "2026-11-27T01:41:59+00:00",
+  "lastSuccess": "2026-11-27T11:11:24+00:00",
   "runs": [
+    {
+      "name": "中新网 · 文娱",
+      "status": "成功",
+      "detail": "读取 4 条，新增 1 条",
+      "time": "2026-11-27T11:11:24+00:00"
+    },
+    {
+      "name": "新浪 · 电影 RSS",
+      "status": "失败",
+      "detail": "未解析到包含 HTTPS 链接的 RSS 条目",
+      "time": "2026-11-27T11:11:24+00:00"
+    },
+    {
+      "name": "中新网 · 财经影视线索",
+      "status": "成功",
+      "detail": "读取 0 条，新增 0 条",
+      "time": "2026-11-27T11:11:24+00:00"
+    },
+    {
+      "name": "Deadline · Film",
+      "status": "成功",
+      "detail": "读取 12 条，新增 1 条",
+      "time": "2026-11-27T11:11:24+00:00"
+    },
+    {
+      "name": "Variety · TV",
+      "status": "成功",
+      "detail": "读取 10 条，新增 2 条",
+      "time": "2026-11-27T11:11:24+00:00"
+    },
+    {
+      "name": "国家电影局",
+      "status": "手动导入",
+      "detail": "来源未配置自动采集",
+      "time": "2026-11-27T11:11:24+00:00"
+    },
+    {
+      "name": "广电总局",
+      "status": "手动导入",
+      "detail": "来源未配置自动采集",
+      "time": "2026-11-27T11:11:24+00:00"
+    },
+    {
+      "name": "1905电影网／中国电影报道",
+      "status": "手动导入",
+      "detail": "来源未配置自动采集",
+      "time": "2026-11-27T11:11:24+00:00"
+    },
     {
       "name": "中新网 · 文娱",
       "status": "成功",
@@ -8587,54 +8683,6 @@
       "status": "成功",
       "detail": "读取 12 条，新增 3 条",
       "time": "2026-11-21T11:03:47+00:00"
-    },
-    {
-      "name": "Variety · TV",
-      "status": "成功",
-      "detail": "读取 10 条，新增 1 条",
-      "time": "2026-11-21T11:03:47+00:00"
-    },
-    {
-      "name": "国家电影局",
-      "status": "手动导入",
-      "detail": "来源未配置自动采集",
-      "time": "2026-11-21T11:03:47+00:00"
-    },
-    {
-      "name": "广电总局",
-      "status": "手动导入",
-      "detail": "来源未配置自动采集",
-      "time": "2026-11-21T11:03:47+00:00"
-    },
-    {
-      "name": "1905电影网／中国电影报道",
-      "status": "手动导入",
-      "detail": "来源未配置自动采集",
-      "time": "2026-11-21T11:03:47+00:00"
-    },
-    {
-      "name": "中新网 · 文娱",
-      "status": "成功",
-      "detail": "读取 5 条，新增 1 条",
-      "time": "2026-11-21T01:34:16+00:00"
-    },
-    {
-      "name": "新浪 · 电影 RSS",
-      "status": "失败",
-      "detail": "未解析到包含 HTTPS 链接的 RSS 条目",
-      "time": "2026-11-21T01:34:16+00:00"
-    },
-    {
-      "name": "中新网 · 财经影视线索",
-      "status": "成功",
-      "detail": "读取 0 条，新增 0 条",
-      "time": "2026-11-21T01:34:16+00:00"
-    },
-    {
-      "name": "Deadline · Film",
-      "status": "成功",
-      "detail": "读取 12 条，新增 12 条",
-      "time": "2026-11-21T01:34:16+00:00"
     }
   ]
 }
