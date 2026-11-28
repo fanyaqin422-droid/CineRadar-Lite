@@ -8320,10 +8320,82 @@
       "translationStatus": "待翻译",
       "originalTitle": "South African President Cyril Ramaphosa Gives Speech at Canal+ Academy Training Program Launch: ‘You Are Living My Dream’",
       "summary": "South African President Cyril Ramaphosa on Friday attended the launch of French media giant Canal+ Group’s Canal+ Academ"
+    },
+    {
+      "title": "俄罗斯电影艺术交流周在福州启幕 三项合作签约",
+      "url": "https://www.chinanews.com.cn/cul/2026/11-28/10739292.shtml",
+      "published": "Sat, 28 Nov 2026 17:08:40 +0800",
+      "kind": "电影",
+      "source": "中新网 · 文娱",
+      "region": "华语",
+      "language": "zh",
+      "translationStatus": "中文原文",
+      "originalTitle": "俄罗斯电影艺术交流周在福州启幕 三项合作签约",
+      "summary": "\n　　中新社福州11月28日电 (叶秋云)作为2026年海上丝绸之路国际文化旅游节的重要活动，俄罗斯电影艺术交流周28日在福州启幕。启动仪式上，三项中俄电影合作项目签约落地。"
+    },
+    {
+      "title": "WWE Star Bronson Reed Dies at 38",
+      "url": "https://variety.com/2026/tv/news/bronson-reed-dead-jermaine-haley-wwe-wrestler-1236959879/",
+      "published": "Sat, 28 Nov 2026 04:27:07 +0000",
+      "kind": "剧集",
+      "source": "Variety · TV",
+      "region": "海外",
+      "language": "en",
+      "translationStatus": "待翻译",
+      "originalTitle": "WWE Star Bronson Reed Dies at 38",
+      "summary": "WWE star Bronson Reed died Friday at the age of 38, the WWE confirmed in a statement. The Australian-born wrestler, whos"
     }
   ],
-  "lastSuccess": "2026-11-28T01:38:34+00:00",
+  "lastSuccess": "2026-11-28T11:07:00+00:00",
   "runs": [
+    {
+      "name": "中新网 · 文娱",
+      "status": "成功",
+      "detail": "读取 2 条，新增 1 条",
+      "time": "2026-11-28T11:07:00+00:00"
+    },
+    {
+      "name": "新浪 · 电影 RSS",
+      "status": "失败",
+      "detail": "未解析到包含 HTTPS 链接的 RSS 条目",
+      "time": "2026-11-28T11:07:00+00:00"
+    },
+    {
+      "name": "中新网 · 财经影视线索",
+      "status": "成功",
+      "detail": "读取 0 条，新增 0 条",
+      "time": "2026-11-28T11:07:00+00:00"
+    },
+    {
+      "name": "Deadline · Film",
+      "status": "成功",
+      "detail": "读取 12 条，新增 0 条",
+      "time": "2026-11-28T11:07:00+00:00"
+    },
+    {
+      "name": "Variety · TV",
+      "status": "成功",
+      "detail": "读取 10 条，新增 1 条",
+      "time": "2026-11-28T11:07:00+00:00"
+    },
+    {
+      "name": "国家电影局",
+      "status": "手动导入",
+      "detail": "来源未配置自动采集",
+      "time": "2026-11-28T11:07:00+00:00"
+    },
+    {
+      "name": "广电总局",
+      "status": "手动导入",
+      "detail": "来源未配置自动采集",
+      "time": "2026-11-28T11:07:00+00:00"
+    },
+    {
+      "name": "1905电影网／中国电影报道",
+      "status": "手动导入",
+      "detail": "来源未配置自动采集",
+      "time": "2026-11-28T11:07:00+00:00"
+    },
     {
       "name": "中新网 · 文娱",
       "status": "成功",
@@ -8875,54 +8947,6 @@
       "status": "成功",
       "detail": "读取 12 条，新增 1 条",
       "time": "2026-11-22T11:01:37+00:00"
-    },
-    {
-      "name": "Variety · TV",
-      "status": "成功",
-      "detail": "读取 10 条，新增 1 条",
-      "time": "2026-11-22T11:01:37+00:00"
-    },
-    {
-      "name": "国家电影局",
-      "status": "手动导入",
-      "detail": "来源未配置自动采集",
-      "time": "2026-11-22T11:01:37+00:00"
-    },
-    {
-      "name": "广电总局",
-      "status": "手动导入",
-      "detail": "来源未配置自动采集",
-      "time": "2026-11-22T11:01:37+00:00"
-    },
-    {
-      "name": "1905电影网／中国电影报道",
-      "status": "手动导入",
-      "detail": "来源未配置自动采集",
-      "time": "2026-11-22T11:01:37+00:00"
-    },
-    {
-      "name": "中新网 · 文娱",
-      "status": "成功",
-      "detail": "读取 4 条，新增 1 条",
-      "time": "2026-11-22T01:30:01+00:00"
-    },
-    {
-      "name": "新浪 · 电影 RSS",
-      "status": "失败",
-      "detail": "未解析到包含 HTTPS 链接的 RSS 条目",
-      "time": "2026-11-22T01:30:01+00:00"
-    },
-    {
-      "name": "中新网 · 财经影视线索",
-      "status": "成功",
-      "detail": "读取 0 条，新增 0 条",
-      "time": "2026-11-22T01:30:01+00:00"
-    },
-    {
-      "name": "Deadline · Film",
-      "status": "成功",
-      "detail": "读取 12 条，新增 5 条",
-      "time": "2026-11-22T01:30:01+00:00"
     }
   ]
 }
